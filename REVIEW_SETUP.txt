@@ -1,0 +1,11 @@
+KINTSUGI AURELIUS — PRE-LAUNCH REVIEW
+
+This is a preview copy, not the official launch.
+
+For GitHub Pages: create a separate public repository (for example, kintsugi-aurelius-preview), upload the contents of this folder to the repository root, then open Settings > Pages > Deploy from a branch > main / (root) > Save. Share the resulting github.io URL. The link is PUBLIC, not password protected, despite noindex requests.
+
+For access-controlled previews, use a hosting provider with authentication; GitHub Pages does not provide visitor password protection.
+
+This package contains the latest user-selected recordings as of Freddie Stowers corrected read-prologue update and keeps Jo's House narration unchanged.
+
+Known limitation: the CSS references AureliusImperial-Regular.woff2, which was not included in the source website archive, so the browser may use the fallback font for text. Existing custom lettering images remain included.
